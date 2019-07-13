@@ -1,14 +1,14 @@
 /*This is a test for the PDA36A photodiode.
 Wire photodiode high and ground on either side of a 2.2MOhm resistor.
 Connect high to A0 and ground to A1.
-Set internal gain on the PDA36A to 30dB - this should produce a max output voltage near 3.5V*/
+Consider setting internal gain on the PDA36A to 30dB - this should produce a max output voltage near 3.5V*/
 
 int p_0;
 int p_1;
 
-float vOut = 0;
-float vList[] = {0,0,0,0,0}; // Remember to update vListSize below if you change element number 
-float vAvg;
+float vOut = 0; // Detected voltage
+float vList[] = {0,0,0,0,0}; // Holds last five detected voltages. Remember to update vListSize below if you change element number 
+float vAvg; // Average of last five detected voltages
 
 int vListSize = 5;
 
