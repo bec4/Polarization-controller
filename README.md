@@ -1,1 +1,1 @@
-![Wiring diagram](Polarization_Corrector Pin Diagram.png)
+![Wiring diagram](/Polarization_Corrector Pin Diagram.png)
