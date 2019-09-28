@@ -2,8 +2,8 @@
 <!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1"
 	 id="svg8" inkscape:export-filename="C:\Users\Ian Bouche\OneDrive - MANTIS CORPORATION\College\W Ketterle UROP\Inkscape\Polarization_Corrector Pin Diagram.png" inkscape:export-xdpi="96" inkscape:export-ydpi="96" inkscape:version="0.92.4 (5da689c313, 2019-01-14)" sodipodi:docname="Polarization Corrector Pin Diagram.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 860.8 567.6"
-	 style="enable-background:new 0 0 860.8 567.6;" xml:space="preserve">
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 810.4 500.5"
+	 style="enable-background:new 0 0 810.4 500.5;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#000000;stroke-width:0.2646;}
 	.st1{fill:#CBCBCB;stroke:#000000;stroke-width:0.3969;}
@@ -30,198 +30,195 @@
 	.st22{fill:#C8BC00;}
 	.st23{fill:#00C818;}
 	.st24{fill:#969696;}
-	.st25{font-family:'TimesNewRomanPS-BoldMT';}
-	.st26{font-size:53.3333px;}
-	.st27{font-family:'ArialNarrow';}
-	.st28{font-size:36.3239px;}
+	.st25{font-family:'ArialNarrow';}
+	.st26{font-size:36.3239px;}
 </style>
 <sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="base" inkscape:bbox-nodes="true" inkscape:current-layer="layer1" inkscape:cx="577.69806" inkscape:cy="594.73863" inkscape:document-units="mm" inkscape:object-nodes="false" inkscape:object-paths="false" inkscape:pagecheckerboard="false" inkscape:pageopacity="1" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:snap-bbox-edge-midpoints="false" inkscape:snap-bbox-midpoints="false" inkscape:snap-global="true" inkscape:snap-grids="true" inkscape:snap-intersection-paths="false" inkscape:snap-nodes="true" inkscape:snap-others="false" inkscape:snap-perpendicular="false" inkscape:snap-smooth-nodes="false" inkscape:window-height="705" inkscape:window-maximized="1" inkscape:window-width="1366" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="0.90509668" pagecolor="#ffffff" showgrid="true" units="px">
 	<inkscape:grid  dotted="true" empspacing="10" id="grid4578" type="xygrid"></inkscape:grid>
 </sodipodi:namedview>
 <g id="layer1" transform="translate(0,-32.416694)" inkscape:groupmode="layer" inkscape:label="Layer 1">
-	<path id="path4542" inkscape:connector-curvature="0" class="st0" d="M584.8,257.4L584.8,257.4"/>
+	<path id="path4542" inkscape:connector-curvature="0" class="st0" d="M534.4,190.2L534.4,190.2"/>
 	<g id="flowRoot4584">
 	</g>
 	<g id="g5756" transform="translate(5.093233,68.593236)">
-		<rect id="rect4582" x="385.5" y="221.2" class="st1" width="139.7" height="259.2"/>
+		<rect id="rect4582" x="335.1" y="154.1" class="st1" width="139.7" height="259.2"/>
 		<g id="flowRoot4592" transform="matrix(0,-0.18750708,0.174683,0,100.39979,250.68918)">
 		</g>
-		<path id="path4613" inkscape:connector-curvature="0" class="st2" d="M434.6,220.9c0,10.7,9,19.4,20,19.4s20-8.7,20-19.4H434.6z"
+		<path id="path4613" inkscape:connector-curvature="0" class="st2" d="M384.2,153.8c0,10.7,9,19.4,20,19.4s20-8.7,20-19.4H384.2z"
 			/>
-		<text transform="matrix(1 0 0 1 392.9322 252.5134)" class="st3 st4">1</text>
-		<text transform="matrix(1 0 0 1 495.6118 252.6931)" class="st3 st4">16</text>
-		<text transform="matrix(1 0 0 1 392.9322 282.5134)" class="st3 st4">2</text>
-		<text transform="matrix(1 0 0 1 495.9478 342.7165)" class="st3 st4">13</text>
-		<text transform="matrix(1 0 0 1 393.7993 312.7165)" class="st3 st4">3</text>
-		<text transform="matrix(1 0 0 1 495.7837 372.7165)" class="st3 st4">12</text>
-		<text transform="matrix(1 0 0 1 394.5025 342.4743)" class="st3 st4">4</text>
-		<text transform="matrix(1 0 0 1 496.4478 402.5134)" class="st3 st4">11</text>
-		<text transform="matrix(1 0 0 1 393.6431 372.4743)" class="st3 st4">5</text>
-		<text transform="matrix(1 0 0 1 495.7993 432.7087)" class="st3 st4">10</text>
-		<text transform="matrix(1 0 0 1 394.0337 402.6931)" class="st3 st4">6</text>
-		<text transform="matrix(1 0 0 1 505.9868 462.7087)" class="st3 st4">9</text>
-		<text transform="matrix(1 0 0 1 393.9009 432.4743)" class="st3 st4">7</text>
-		<text transform="matrix(1 0 0 1 394.1509 462.74)" class="st3 st4">8</text>
-		<text transform="matrix(1 0 0 1 495.6118 280.5993)" class="st3 st4">15</text>
-		<text transform="matrix(1 0 0 1 495.5181 312.5134)" class="st3 st4">14</text>
+		<text transform="matrix(1 0 0 1 342.5271 185.342)" class="st3 st4">1</text>
+		<text transform="matrix(1 0 0 1 445.2068 185.5217)" class="st3 st4">16</text>
+		<text transform="matrix(1 0 0 1 342.5271 215.342)" class="st3 st4">2</text>
+		<text transform="matrix(1 0 0 1 445.5427 275.5451)" class="st3 st4">13</text>
+		<text transform="matrix(1 0 0 1 343.3943 245.5452)" class="st3 st4">3</text>
+		<text transform="matrix(1 0 0 1 445.3786 305.5451)" class="st3 st4">12</text>
+		<text transform="matrix(1 0 0 1 344.0974 275.3029)" class="st3 st4">4</text>
+		<text transform="matrix(1 0 0 1 446.0427 335.342)" class="st3 st4">11</text>
+		<text transform="matrix(1 0 0 1 343.238 305.3029)" class="st3 st4">5</text>
+		<text transform="matrix(1 0 0 1 445.3943 365.5373)" class="st3 st4">10</text>
+		<text transform="matrix(1 0 0 1 343.6286 335.5217)" class="st3 st4">6</text>
+		<text transform="matrix(1 0 0 1 455.5818 395.5373)" class="st3 st4">9</text>
+		<text transform="matrix(1 0 0 1 343.4958 365.3029)" class="st3 st4">7</text>
+		<text transform="matrix(1 0 0 1 343.7458 395.5686)" class="st3 st4">8</text>
+		<text transform="matrix(1 0 0 1 445.2068 213.428)" class="st3 st4">15</text>
+		<text transform="matrix(1 0 0 1 445.113 245.342)" class="st3 st4">14</text>
 	</g>
 	<g id="g5786" transform="translate(5.093233,68.593236)">
-		<rect id="rect4737" x="656.8" y="31.2" class="st1" width="158.6" height="80"/>
-		<text transform="matrix(1.0778 0 0 1 678.3403 60.5232)" class="st3 st5">PDA36A</text>
-		<text transform="matrix(1 0 0 1 680.2915 87.029)" class="st3 st4">BNC </text>
-		<text transform="matrix(1 0 0 1 681.9165 100.9236)" class="st3 st4">Live</text>
-		<text transform="matrix(1 0 0 1 757.3853 87.0056)" class="st3 st4">BNC </text>
-		<text transform="matrix(1 0 0 1 755.9087 100.9001)" class="st3 st4">GND</text>
+		<rect id="rect4737" x="606.4" y="-36" class="st1" width="158.6" height="80"/>
+		<text transform="matrix(1.0778 0 0 1 627.9352 -6.6482)" class="st3 st5">PDA36A</text>
+		<text transform="matrix(1 0 0 1 629.8864 19.8577)" class="st3 st4">BNC </text>
+		<text transform="matrix(1 0 0 1 631.5114 33.7522)" class="st3 st4">Live</text>
+		<text transform="matrix(1 0 0 1 706.9802 19.8342)" class="st3 st4">BNC </text>
+		<text transform="matrix(1 0 0 1 705.5036 33.7287)" class="st3 st4">GND</text>
 	</g>
-	<path id="path4866" inkscape:connector-curvature="0" class="st6" d="M706.1,180.5v60"/>
-	<path id="path4868" inkscape:connector-curvature="0" class="st6" d="M776.1,180.5v60"/>
+	<path id="path4866" inkscape:connector-curvature="0" class="st6" d="M655.7,113.3v60"/>
+	<path id="path4868" inkscape:connector-curvature="0" class="st6" d="M725.7,113.3v60"/>
 	<g id="g4881" transform="translate(91.224394,87.147699)">
-		<path id="rect4872" class="st2" d="M629.6,112.8h40.6c2.6,0,4.7,2.1,4.7,4.7v10.6c0,2.6-2.1,4.7-4.7,4.7h-40.6
-			c-2.6,0-4.7-2.1-4.7-4.7v-10.6C624.9,114.9,627,112.8,629.6,112.8z"/>
-		<text transform="matrix(0.8541 0 0 1 627.8244 128.4433)" class="st3 st7">2.2MΩ</text>
+		<path id="rect4872" class="st2" d="M579.2,45.7h40.6c2.6,0,4.7,2.1,4.7,4.7V61c0,2.6-2.1,4.7-4.7,4.7h-40.6
+			c-2.6,0-4.7-2.1-4.7-4.7V50.3C574.5,47.8,576.6,45.7,579.2,45.7z"/>
+		<text transform="matrix(0.8541 0 0 1 577.4194 61.2719)" class="st3 st7">2.2MΩ</text>
 	</g>
-	<path id="path4887" inkscape:connector-curvature="0" class="st6" d="M706.1,210.2h10"/>
-	<path id="path4889" inkscape:connector-curvature="0" class="st8" d="M766.1,190C766.1,189.8,766,189.7,766.1,190z"/>
-	<path id="path4891" inkscape:connector-curvature="0" class="st6" d="M776.1,210h-10"/>
+	<path id="path4887" inkscape:connector-curvature="0" class="st6" d="M655.7,143h10"/>
+	<path id="path4889" inkscape:connector-curvature="0" class="st8" d="M715.7,122.8C715.7,122.7,715.6,122.5,715.7,122.8z"/>
+	<path id="path4891" inkscape:connector-curvature="0" class="st6" d="M725.7,142.8h-10"/>
 	<g id="g5775" transform="translate(5.093233,68.593236)">
-		<rect id="rect4779" x="616.7" y="172.9" class="st1" width="238.8" height="358.3"/>
-		<text transform="matrix(0 -0.9522 1 0 755.2544 462.0017)" class="st3 st9">Arduino</text>
-		<text transform="matrix(1.0652 0 0 1 746.3892 195.115)" class="st3 st10">pPinHi</text>
-		<text transform="matrix(1.0652 0 0 1 756.5669 217.7224)" class="st3 st10">(A1)</text>
-		<text transform="matrix(1.0652 0 0 1 624.9634 251.6208)" class="st3 st10">5V</text>
-		<text transform="matrix(1.0652 0 0 1 624.9634 281.6208)" class="st3 st10">GND</text>
-		<text transform="matrix(1.0652 0 0 1 667.2563 195.115)" class="st3 st10">pPinLo</text>
-		<text transform="matrix(1.0652 0 0 1 679.0532 217.7224)" class="st3 st10">(A0)</text>
-		<text transform="matrix(1.0652 0 0 1 624.3052 465.6169)" class="st3 st10">rxPin (2)</text>
-		<text transform="matrix(1.0652 0 0 1 625.4614 435.6169)" class="st3 st10">txPin (3)</text>
+		<rect id="rect4779" x="566.3" y="105.7" class="st1" width="238.8" height="358.3"/>
+		<text transform="matrix(0 -0.9522 1 0 704.8493 394.8303)" class="st3 st9">Arduino</text>
+		<text transform="matrix(1.0652 0 0 1 695.9841 127.9436)" class="st3 st10">pPinHi</text>
+		<text transform="matrix(1.0652 0 0 1 706.1618 150.551)" class="st3 st10">(A1)</text>
+		<text transform="matrix(1.0652 0 0 1 574.5583 184.4494)" class="st3 st10">5V</text>
+		<text transform="matrix(1.0652 0 0 1 574.5583 214.4494)" class="st3 st10">GND</text>
+		<text transform="matrix(1.0652 0 0 1 616.8513 127.9436)" class="st3 st10">pPinLo</text>
+		<text transform="matrix(1.0652 0 0 1 628.6481 150.551)" class="st3 st10">(A0)</text>
+		<text transform="matrix(1.0652 0 0 1 573.9001 398.4455)" class="st3 st10">rxPin (2)</text>
+		<text transform="matrix(1.0652 0 0 1 575.0563 368.4455)" class="st3 st10">txPin (3)</text>
 	</g>
-	<path id="path4910" inkscape:connector-curvature="0" class="st11" d="M531.1,500.5h90"/>
-	<path id="path4912" inkscape:connector-curvature="0" class="st12" d="M531.1,530.5h90"/>
-	<path id="path4914" inkscape:connector-curvature="0" class="st13" d="M621.1,350.5h-90"/>
-	<path id="path4922" inkscape:connector-curvature="0" class="st14" d="M531.1,470.5h30"/>
-	<path id="path4924" inkscape:connector-curvature="0" class="st14" d="M531.1,440.5h30"/>
-	<path id="path4926" inkscape:connector-curvature="0" class="st14" d="M531.1,410.5h30"/>
-	<path id="path4928" inkscape:connector-curvature="0" sodipodi:nodetypes="csc" class="st14" d="M561.1,340.5c5.5,0,10,4.4,10,9.9
+	<path id="path4910" inkscape:connector-curvature="0" class="st11" d="M480.7,433.3h90"/>
+	<path id="path4912" inkscape:connector-curvature="0" class="st12" d="M480.7,463.3h90"/>
+	<path id="path4914" inkscape:connector-curvature="0" class="st13" d="M570.7,283.3h-90"/>
+	<path id="path4922" inkscape:connector-curvature="0" class="st14" d="M480.7,403.3h30"/>
+	<path id="path4924" inkscape:connector-curvature="0" class="st14" d="M480.7,373.3h30"/>
+	<path id="path4926" inkscape:connector-curvature="0" class="st14" d="M480.7,343.3h30"/>
+	<path id="path4928" inkscape:connector-curvature="0" sodipodi:nodetypes="csc" class="st14" d="M510.7,273.3c5.5,0,10,4.4,10,9.9
 		c0,5.5-4.4,10-9.9,10.1"/>
-	<path id="path4945" inkscape:connector-curvature="0" class="st14" d="M561.1,470.5v-110"/>
-	<path id="path4949" inkscape:connector-curvature="0" class="st14" d="M561.1,340.5v-20"/>
-	<path id="path4953" inkscape:connector-curvature="0" class="st14" d="M531.1,380.5h30"/>
-	<path id="path4955" inkscape:connector-curvature="0" class="st14" d="M531.1,320.6h90"/>
-	<path id="path5121" inkscape:connector-curvature="0" class="st6" d="M391.1,320.5h-10"/>
+	<path id="path4945" inkscape:connector-curvature="0" class="st14" d="M510.7,403.3v-110"/>
+	<path id="path4949" inkscape:connector-curvature="0" class="st14" d="M510.7,273.3v-20"/>
+	<path id="path4953" inkscape:connector-curvature="0" class="st14" d="M480.7,313.3h30"/>
+	<path id="path4955" inkscape:connector-curvature="0" class="st14" d="M480.7,253.4h90"/>
+	<path id="path5121" inkscape:connector-curvature="0" class="st6" d="M340.7,253.3h-10"/>
 	<g id="g5335" transform="translate(64.633781,95.349776)">
-		<path id="rect5241-7" class="st2" d="M270.7,215.1h40.6c2.6,0,4.7,2.1,4.7,4.7v10.6c0,2.6-2.1,4.7-4.7,4.7h-40.6
-			c-2.6,0-4.7-2.1-4.7-4.7v-10.6C266,217.2,268.1,215.1,270.7,215.1z"/>
-		<text transform="matrix(0.8541 0 0 1 273.7021 229.001)" class="st3 st7">-1μF+</text>
+		<path id="rect5241-7" class="st2" d="M220.3,147.9h40.6c2.6,0,4.7,2.1,4.7,4.7v10.6c0,2.6-2.1,4.7-4.7,4.7h-40.6
+			c-2.6,0-4.7-2.1-4.7-4.7v-10.6C215.6,150.1,217.7,147.9,220.3,147.9z"/>
+		<text transform="matrix(0.8541 0 0 1 223.2971 161.8296)" class="st3 st7">-1μF+</text>
 	</g>
-	<path id="path5339" inkscape:connector-curvature="0" class="st6" d="M331.1,320.5h-10"/>
-	<path id="path5341" inkscape:connector-curvature="0" class="st6" d="M321.1,320.5v20"/>
-	<path id="path5343" inkscape:connector-curvature="0" class="st6" d="M321.1,360.5v20"/>
-	<path id="path5345" inkscape:connector-curvature="0" class="st6" d="M321.1,380.5h70"/>
+	<path id="path5339" inkscape:connector-curvature="0" class="st6" d="M280.7,253.3h-10"/>
+	<path id="path5341" inkscape:connector-curvature="0" class="st6" d="M270.7,253.3v20"/>
+	<path id="path5343" inkscape:connector-curvature="0" class="st6" d="M270.7,293.3v20"/>
+	<path id="path5345" inkscape:connector-curvature="0" class="st6" d="M270.7,313.3h70"/>
 	<g id="g5355" transform="translate(64.766071,135.03729)">
-		<path id="rect5349" class="st2" d="M271.1,325.4h40.6c2.6,0,4.7,2.1,4.7,4.7v10.6c0,2.6-2.1,4.7-4.7,4.7h-40.6
-			c-2.6,0-4.7-2.1-4.7-4.7v-10.6C266.4,327.5,268.5,325.4,271.1,325.4z"/>
-		<text transform="matrix(0.8541 0 0 1 274.0699 339.3135)" class="st3 st7">-1μF+</text>
+		<path id="rect5349" class="st2" d="M220.7,258.3h40.6c2.6,0,4.7,2.1,4.7,4.7v10.6c0,2.6-2.1,4.7-4.7,4.7h-40.6
+			c-2.6,0-4.7-2.1-4.7-4.7V263C216,260.4,218.1,258.3,220.7,258.3z"/>
+		<text transform="matrix(0.8541 0 0 1 223.6648 272.1421)" class="st3 st7">-1μF+</text>
 	</g>
-	<path id="path5357" inkscape:connector-curvature="0" class="st6" d="M330.9,410.1h-10"/>
-	<path id="path5363" inkscape:connector-curvature="0" class="st6" d="M391.1,440.5h-70"/>
-	<path id="path5367" inkscape:connector-curvature="0" class="st6" d="M331.4,410.1h-10"/>
-	<path id="path5369" inkscape:connector-curvature="0" class="st6" d="M391.1,470.5h-10"/>
-	<path id="path5371" inkscape:connector-curvature="0" class="st13" d="M331.1,470.5h-40"/>
-	<path id="path5373" inkscape:connector-curvature="0" class="st6" d="M391.1,350.5h-10"/>
-	<path id="path5375" inkscape:connector-curvature="0" class="st13" d="M331.1,350.5h-40"/>
-	<path id="path5379" inkscape:connector-curvature="0" sodipodi:nodetypes="csc" class="st6" d="M321.1,340.5c-5.5,0-10,4.4-10,9.9
+	<path id="path5357" inkscape:connector-curvature="0" class="st6" d="M280.4,342.9h-10"/>
+	<path id="path5363" inkscape:connector-curvature="0" class="st6" d="M340.7,373.3h-70"/>
+	<path id="path5367" inkscape:connector-curvature="0" class="st6" d="M280.9,342.9h-10"/>
+	<path id="path5369" inkscape:connector-curvature="0" class="st6" d="M340.7,403.3h-10"/>
+	<path id="path5371" inkscape:connector-curvature="0" class="st13" d="M280.7,403.3h-40"/>
+	<path id="path5373" inkscape:connector-curvature="0" class="st6" d="M340.7,283.3h-10"/>
+	<path id="path5375" inkscape:connector-curvature="0" class="st13" d="M280.7,283.3h-40"/>
+	<path id="path5379" inkscape:connector-curvature="0" sodipodi:nodetypes="csc" class="st6" d="M270.7,273.3c-5.5,0-10,4.4-10,9.9
 		c0,5.5,4.4,10,9.9,10.1"/>
 	<g id="g5389" transform="translate(64.898349,103.28728)">
-		<path id="rect5383" class="st2" d="M271.4,237.2H312c2.6,0,4.7,2.1,4.7,4.7v10.6c0,2.6-2.1,4.7-4.7,4.7h-40.6
-			c-2.6,0-4.7-2.1-4.7-4.7v-10.6C266.7,239.3,268.8,237.2,271.4,237.2z"/>
-		<text transform="matrix(0.8541 0 0 1 274.4376 251.0635)" class="st3 st7">-1μF+</text>
+		<path id="rect5383" class="st2" d="M221,170h40.6c2.6,0,4.7,2.1,4.7,4.7v10.6c0,2.6-2.1,4.7-4.7,4.7H221c-2.6,0-4.7-2.1-4.7-4.7
+			v-10.6C216.3,172.1,218.4,170,221,170z"/>
+		<text transform="matrix(0.8541 0 0 1 224.0325 183.8921)" class="st3 st7">-1μF+</text>
 	</g>
 	<g id="g5397" transform="translate(64.690634,119.0625)">
-		<path id="rect5391" class="st2" d="M270.9,281h40.6c2.6,0,4.7,2.1,4.7,4.7v10.6c0,2.6-2.1,4.7-4.7,4.7h-40.6
-			c-2.6,0-4.7-2.1-4.7-4.7v-10.6C266.2,283.1,268.3,281,270.9,281z"/>
-		<text transform="matrix(0.8541 0 0 1 273.8601 294.9113)" class="st3 st7">-1μF+</text>
+		<path id="rect5391" class="st2" d="M220.5,213.9h40.6c2.6,0,4.7,2.1,4.7,4.7v10.6c0,2.6-2.1,4.7-4.7,4.7h-40.6
+			c-2.6,0-4.7-2.1-4.7-4.7v-10.6C215.8,216,217.9,213.9,220.5,213.9z"/>
+		<text transform="matrix(0.8541 0 0 1 223.4551 227.7399)" class="st3 st7">-1μF+</text>
 	</g>
 	<g id="g5716" transform="translate(5.093233,68.593236)">
-		<rect id="rect5416" x="45.5" y="221.8" class="st1" width="89.9" height="289.4"/>
-		<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 75.2271 481.9939)" class="st3 st15">RS-232 Connector</text>
-		<text transform="matrix(1 0 0 1 116.9673 251.8259)" class="st3 st4">1</text>
-		<text transform="matrix(1 0 0 1 116.3033 281.8259)" class="st3 st4">2</text>
-		<text transform="matrix(1 0 0 1 116.4673 311.5837)" class="st3 st4">3</text>
-		<text transform="matrix(1 0 0 1 116.0376 341.8259)" class="st3 st4">4</text>
-		<text transform="matrix(1 0 0 1 116.397 371.5837)" class="st3 st4">5</text>
-		<text transform="matrix(1 0 0 1 116.1314 401.5837)" class="st3 st4">6</text>
-		<text transform="matrix(1 0 0 1 114.2329 433.4587)" class="st3 st4">7</text>
-		<text transform="matrix(1 0 0 1 116.2173 461.5603)" class="st3 st4">8</text>
-		<text transform="matrix(1 0 0 1 116.3189 491.5993)" class="st3 st4">9</text>
+		<rect id="rect5416" x="-4.9" y="154.7" class="st1" width="89.9" height="289.4"/>
+		<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 24.822 414.8225)" class="st3 st15">RS-232 Connector</text>
+		<text transform="matrix(1 0 0 1 66.5622 184.6545)" class="st3 st4">1</text>
+		<text transform="matrix(1 0 0 1 65.8982 214.6545)" class="st3 st4">2</text>
+		<text transform="matrix(1 0 0 1 66.0622 244.4123)" class="st3 st4">3</text>
+		<text transform="matrix(1 0 0 1 65.6325 274.6545)" class="st3 st4">4</text>
+		<text transform="matrix(1 0 0 1 65.9919 304.4123)" class="st3 st4">5</text>
+		<text transform="matrix(1 0 0 1 65.7263 334.4123)" class="st3 st4">6</text>
+		<text transform="matrix(1 0 0 1 63.8279 366.2873)" class="st3 st4">7</text>
+		<text transform="matrix(1 0 0 1 65.8122 394.3889)" class="st3 st4">8</text>
+		<text transform="matrix(1 0 0 1 65.9138 424.4279)" class="st3 st4">9</text>
 	</g>
-	<path id="path5508" inkscape:connector-curvature="0" class="st6" d="M140.5,320.4h30"/>
-	<path id="path5510" inkscape:connector-curvature="0" class="st6" d="M140.5,410.4h30"/>
-	<path id="path5514" inkscape:connector-curvature="0" class="st16" d="M140.5,500.4h30"/>
-	<path id="path5516" inkscape:connector-curvature="0" class="st16" d="M140.5,530.4h30"/>
-	<path id="path5518" inkscape:connector-curvature="0" class="st16" d="M170.5,500.4v30"/>
-	<path id="path5520" inkscape:connector-curvature="0" class="st13" d="M140.5,440.4h60"/>
-	<path id="path5522" inkscape:connector-curvature="0" class="st12" d="M390.6,499.8h-130"/>
-	<path id="path5524" inkscape:connector-curvature="0" class="st17" d="M390.6,529.8h-160"/>
-	<path id="path5526" inkscape:connector-curvature="0" class="st12" d="M260.6,499.8v-150"/>
-	<path id="path5528" inkscape:connector-curvature="0" class="st18" d="M230.6,529.8v-150"/>
-	<path id="path5536" inkscape:connector-curvature="0" class="st18" d="M230.6,379.8h-90"/>
-	<path id="path5538" inkscape:connector-curvature="0" class="st12" d="M260.6,349.8h-120"/>
-	<path id="path5554" inkscape:connector-curvature="0" class="st6" d="M140.6,469.8h30v-20"/>
-	<path id="path5556" inkscape:connector-curvature="0" class="st6" d="M170.6,429.8v-40"/>
-	<path id="path5558" inkscape:connector-curvature="0" class="st6" d="M170.6,369.8v-10"/>
-	<path id="path5560" inkscape:connector-curvature="0" class="st6" d="M170.6,339.8v-20"/>
-	<path id="path5562" inkscape:connector-curvature="0" sodipodi:nodetypes="csc" class="st6" d="M170.1,340.3c5.5,0,10,4.4,10,9.9
+	<path id="path5508" inkscape:connector-curvature="0" class="st6" d="M90.1,253.2h30"/>
+	<path id="path5510" inkscape:connector-curvature="0" class="st6" d="M90.1,343.2h30"/>
+	<path id="path5514" inkscape:connector-curvature="0" class="st16" d="M90.1,433.2h30"/>
+	<path id="path5516" inkscape:connector-curvature="0" class="st16" d="M90.1,463.2h30"/>
+	<path id="path5518" inkscape:connector-curvature="0" class="st16" d="M120.1,433.2v30"/>
+	<path id="path5520" inkscape:connector-curvature="0" class="st13" d="M90.1,373.2h60"/>
+	<path id="path5522" inkscape:connector-curvature="0" class="st12" d="M340.2,432.7h-130"/>
+	<path id="path5524" inkscape:connector-curvature="0" class="st17" d="M340.2,462.7h-160"/>
+	<path id="path5526" inkscape:connector-curvature="0" class="st12" d="M210.2,432.7v-150"/>
+	<path id="path5528" inkscape:connector-curvature="0" class="st18" d="M180.2,462.7v-150"/>
+	<path id="path5536" inkscape:connector-curvature="0" class="st18" d="M180.2,312.7h-90"/>
+	<path id="path5538" inkscape:connector-curvature="0" class="st12" d="M210.2,282.7h-120"/>
+	<path id="path5554" inkscape:connector-curvature="0" class="st6" d="M90.2,402.7h30v-20"/>
+	<path id="path5556" inkscape:connector-curvature="0" class="st6" d="M120.2,362.7v-40"/>
+	<path id="path5558" inkscape:connector-curvature="0" class="st6" d="M120.2,302.7v-10"/>
+	<path id="path5560" inkscape:connector-curvature="0" class="st6" d="M120.2,272.7v-20"/>
+	<path id="path5562" inkscape:connector-curvature="0" sodipodi:nodetypes="csc" class="st6" d="M119.7,273.2c5.5,0,10,4.4,10,9.9
 		c0,5.5-4.4,10-9.9,10.1"/>
-	<path id="path5564" inkscape:connector-curvature="0" sodipodi:nodetypes="csc" class="st6" d="M170.6,369.8c5.5,0,10,4.4,10,9.9
+	<path id="path5564" inkscape:connector-curvature="0" sodipodi:nodetypes="csc" class="st6" d="M120.2,302.7c5.5,0,10,4.4,10,9.9
 		c0,5.5-4.4,10-9.9,10.1"/>
-	<path id="path5566" inkscape:connector-curvature="0" sodipodi:nodetypes="csc" class="st6" d="M170.6,429.8c5.5,0,10,4.4,10,9.9
+	<path id="path5566" inkscape:connector-curvature="0" sodipodi:nodetypes="csc" class="st6" d="M120.2,362.7c5.5,0,10,4.4,10,9.9
 		c0,5.5-4.4,10-9.9,10.1"/>
 	<g id="g5592" transform="translate(13.030734,87.246362)">
-		<path id="path5570" inkscape:connector-curvature="0" class="st13" d="M267.6,273.1h20"/>
-		<path id="path5576" inkscape:connector-curvature="0" class="st13" d="M272.5,283.3h11.1"/>
-		<path id="path5580" inkscape:connector-curvature="0" class="st13" d="M272,273.1h11.1"/>
-		<path id="path5586" inkscape:connector-curvature="0" class="st13" d="M270.5,278.2h15.2"/>
+		<path id="path5570" inkscape:connector-curvature="0" class="st13" d="M217.2,205.9h20"/>
+		<path id="path5576" inkscape:connector-curvature="0" class="st13" d="M222.1,216.1h11.1"/>
+		<path id="path5580" inkscape:connector-curvature="0" class="st13" d="M221.6,205.9h11.1"/>
+		<path id="path5586" inkscape:connector-curvature="0" class="st13" d="M220.1,211h15.2"/>
 	</g>
 	<g id="g5602" transform="translate(13.030734,118.99637)">
-		<path id="path5594" inkscape:connector-curvature="0" class="st13" d="M267.6,361.3h20"/>
-		<path id="path5596" inkscape:connector-curvature="0" class="st13" d="M272.5,371.5h11.1"/>
-		<path id="path5598" inkscape:connector-curvature="0" class="st13" d="M272,361.3h11.1"/>
-		<path id="path5600" inkscape:connector-curvature="0" class="st13" d="M270.5,366.5h15.2"/>
+		<path id="path5594" inkscape:connector-curvature="0" class="st13" d="M217.2,294.2h20"/>
+		<path id="path5596" inkscape:connector-curvature="0" class="st13" d="M222.1,304.3h11.1"/>
+		<path id="path5598" inkscape:connector-curvature="0" class="st13" d="M221.6,294.2h11.1"/>
+		<path id="path5600" inkscape:connector-curvature="0" class="st13" d="M220.1,299.3h15.2"/>
 	</g>
 	<g id="g5612" transform="translate(92.405734,87.246362)">
-		<path id="path5604" inkscape:connector-curvature="0" class="st13" d="M488.2,273.1h20"/>
-		<path id="path5606" inkscape:connector-curvature="0" class="st13" d="M493.2,283.3h11.1"/>
-		<path id="path5608" inkscape:connector-curvature="0" class="st13" d="M492.6,273.1h11.1"/>
-		<path id="path5610" inkscape:connector-curvature="0" class="st13" d="M491.1,278.2h15.2"/>
+		<path id="path5604" inkscape:connector-curvature="0" class="st13" d="M437.8,205.9h20"/>
+		<path id="path5606" inkscape:connector-curvature="0" class="st13" d="M442.8,216.1h11.1"/>
+		<path id="path5608" inkscape:connector-curvature="0" class="st13" d="M442.2,205.9h11.1"/>
+		<path id="path5610" inkscape:connector-curvature="0" class="st13" d="M440.7,211h15.2"/>
 	</g>
 	<g id="g5622" transform="translate(-10.781766,111.05887)">
-		<path id="path5614" inkscape:connector-curvature="0" class="st13" d="M201.4,339.3h20"/>
-		<path id="path5616" inkscape:connector-curvature="0" class="st13" d="M206.3,349.5h11.1"/>
-		<path id="path5618" inkscape:connector-curvature="0" class="st13" d="M205.8,339.3h11.1"/>
-		<path id="path5620" inkscape:connector-curvature="0" class="st13" d="M204.3,344.4h15.2"/>
+		<path id="path5614" inkscape:connector-curvature="0" class="st13" d="M151,272.1h20"/>
+		<path id="path5616" inkscape:connector-curvature="0" class="st13" d="M155.9,282.3h11.1"/>
+		<path id="path5618" inkscape:connector-curvature="0" class="st13" d="M155.4,272.1h11.1"/>
+		<path id="path5620" inkscape:connector-curvature="0" class="st13" d="M153.9,277.2h15.2"/>
 	</g>
-	<path id="path5626" inkscape:connector-curvature="0" class="st13" d="M200.1,439.8v10"/>
-	<path id="path5628" inkscape:connector-curvature="0" class="st13" d="M290.6,469.8v10"/>
-	<path id="path5630" inkscape:connector-curvature="0" class="st13" d="M290.6,359.8v-10"/>
-	<path id="path5632" inkscape:connector-curvature="0" class="st13" d="M590.6,349.8v10"/>
-	<path id="path5634" inkscape:connector-curvature="0" class="st6" d="M381.4,410.1h10"/>
+	<path id="path5626" inkscape:connector-curvature="0" class="st13" d="M149.7,372.7v10"/>
+	<path id="path5628" inkscape:connector-curvature="0" class="st13" d="M240.2,402.7v10"/>
+	<path id="path5630" inkscape:connector-curvature="0" class="st13" d="M240.2,292.7v-10"/>
+	<path id="path5632" inkscape:connector-curvature="0" class="st13" d="M540.2,282.7v10"/>
+	<path id="path5634" inkscape:connector-curvature="0" class="st6" d="M330.9,342.9h10"/>
 	<g id="g5693" transform="translate(-8.1359341,73.884904)">
-		<rect id="rect5636" x="70" y="27.2" class="st19" width="287.6" height="157.6"/>
-		<text transform="matrix(1 0 0 1 101.8391 96.2198)" class="st20 st15">Wire</text>
-		<text transform="matrix(1 0 0 1 83.2062 129.5518)" class="st20 st15">Legend</text>
-		<rect id="rect5642" x="198.7" y="36" class="st21" width="20" height="20"/>
-		<rect id="rect5644" x="198.7" y="66" width="20" height="20"/>
-		<rect id="rect5646" x="198.7" y="96" class="st22" width="20" height="20"/>
-		<rect id="rect5648" x="198.7" y="126" class="st23" width="20" height="20"/>
-		<rect id="rect5652" x="198.7" y="156" class="st24" width="20" height="20"/>
-		<text transform="matrix(1 0 0 1 226.3059 55.3467)" class="st3 st15">5V</text>
-		<text transform="matrix(1 0 0 1 226.3059 85.3467)" class="st3 st15">Ground</text>
-		<text transform="matrix(1 0 0 1 227.2434 116.2198)" class="st3 st15">Transmit</text>
-		<text transform="matrix(1 0 0 1 228.7414 145.4776)" class="st3 st15">Receive</text>
-		<text transform="matrix(1 0 0 1 226.1359 175.4776)" class="st3 st15">Other</text>
+		<rect id="rect5636" x="19.6" y="-40" class="st19" width="287.6" height="157.6"/>
+		<text transform="matrix(1 0 0 1 51.434 29.0484)" class="st20 st15">Wire</text>
+		<text transform="matrix(1 0 0 1 32.8012 62.3804)" class="st20 st15">Legend</text>
+		<rect id="rect5642" x="148.3" y="-31.2" class="st21" width="20" height="20"/>
+		<rect id="rect5644" x="148.3" y="-1.2" width="20" height="20"/>
+		<rect id="rect5646" x="148.3" y="28.8" class="st22" width="20" height="20"/>
+		<rect id="rect5648" x="148.3" y="58.8" class="st23" width="20" height="20"/>
+		<rect id="rect5652" x="148.3" y="88.8" class="st24" width="20" height="20"/>
+		<text transform="matrix(1 0 0 1 175.9008 -11.8246)" class="st3 st15">5V</text>
+		<text transform="matrix(1 0 0 1 175.9008 18.1754)" class="st3 st15">Ground</text>
+		<text transform="matrix(1 0 0 1 176.8383 49.0484)" class="st3 st15">Transmit</text>
+		<text transform="matrix(1 0 0 1 178.3363 78.3062)" class="st3 st15">Receive</text>
+		<text transform="matrix(1 0 0 1 175.7309 108.3062)" class="st3 st15">Other</text>
 	</g>
-	<text transform="matrix(1 0 0 1 19 76.7394)" class="st25 st26">Polarization Corrector Pin Diagram</text>
-	<path id="path5844" inkscape:connector-curvature="0" class="st6" d="M321.9,410.6v30"/>
+	<path id="path5844" inkscape:connector-curvature="0" class="st6" d="M271.4,343.4v30"/>
 </g>
-<text transform="matrix(6.169128e-17 -1.0075 1 6.123234e-17 470.5096 511.3716)" class="st27 st28">MAX3323EEPE+</text>
+<text transform="matrix(6.169128e-17 -1.0075 1 6.123234e-17 420.1045 444.2002)" class="st25 st26">MAX3323EEPE+</text>
 </svg>

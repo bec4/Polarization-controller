@@ -1,3 +1,6 @@
+# Automatic polarization controller
+This repository contains the Arduino sketches needed to control the polarization of a laser beam using a half- and quarter-wave plate in Newport SM100 rotating mounts. The Arduino controls the motor controllers via RS-232 serial. As input, it takes the light signal of a photodiode that's in the rejected port of a beam splitter. The Arduino has some arbitrary threshold, below which it doesn't do anything, and above which it minimizes the light on the photodiode. 
+
 To use the Arduino for RS-232 communication, we largely follow [this Arduino tutorial](https://www.arduino.cc/en/Tutorial/ArduinoSoftwareRS232). It requires a separate chip which can be powered using the 5V out on the Arduino (MAX3323E). See below for the wiring diagram.
 
 ## Notes
@@ -8,3 +11,7 @@ To use the Arduino for RS-232 communication, we largely follow [this Arduino tut
 
 
 ![Wiring diagram](/polarization_corrector_pin_diagram.svg)
+
+
+## Wishlist
+* Currently, the threshold above which the Arduino starts the minimum search is hardcoded in the sketch (`pVolThr`). This makes it hard to just drop in the polarization corrector and expect it to work. Ideally, the Arduino would do a full rotation of both plates at when it initializes, and map out the minimum. Then it should set the threshold to something like 5% above this minimum.
