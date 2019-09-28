@@ -1,4 +1,4 @@
-The use the Arduino for RS-232 communication, we largely follow [this Arduino tutorial](https://www.arduino.cc/en/Tutorial/ArduinoSoftwareRS232). It requires a separate chip which can be powered using the 5V out on the Arduino (MAX3323E). See below for the wiring diagram.
+To use the Arduino for RS-232 communication, we largely follow [this Arduino tutorial](https://www.arduino.cc/en/Tutorial/ArduinoSoftwareRS232). It requires a separate chip which can be powered using the 5V out on the Arduino (MAX3323E). See below for the wiring diagram.
 
 ## Notes
 1. The Arduino can function as both a DCE (receiving) and DTE (transmitting) unit. The diagram below is set to a DTE configuration, but can be made into a DCE configuration if the cables that go to pins 
